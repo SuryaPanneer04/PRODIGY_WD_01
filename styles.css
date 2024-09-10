@@ -66,7 +66,7 @@ header {
     background-image: linear-gradient( rgb(72, 141, 166), rgb(132, 255, 181), pink);
 
     height: 100vh;
-    color: #fff;
+    color: #000000;
 }
 
 .hero-content h1 {
@@ -77,7 +77,7 @@ header {
     display: inline-block;
     padding: 10px 20px;
     background: #00bcd4;
-    color: #fff;
+    color: #ffffff;
     border-radius: 5px;
     text-decoration: none;
     transition: background 0.3s;
